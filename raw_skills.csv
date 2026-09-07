@@ -1,0 +1,13 @@
+role,skills,popularity
+Data Scientist,"python, sql, machine learning, statistics, pandas, data analysis, scikit learn",95
+Machine Learning Engineer,"python, machine learning, deep learning, tensorflow, pytorch, model deployment, docker",90
+Data Analyst,"sql, excel, data analysis, statistics, power bi, data visualization, python",88
+Data Engineer,"python, sql, spark, etl, airflow, cloud computing, data warehousing",82
+DevOps Engineer,"linux, docker, kubernetes, ci cd, aws, automation, bash scripting",86
+Cloud Architect,"aws, azure, cloud computing, kubernetes, networking, terraform, security",78
+Backend Developer,"java, python, sql, apis, databases, git, system design",92
+Frontend Developer,"html, css, javascript, react, ui design, responsive design, git",89
+Full Stack Developer,"javascript, react, node js, sql, apis, git, html",91
+Mobile App Developer,"kotlin, swift, flutter, dart, ui design, apis, git",74
+Cybersecurity Analyst,"networking, linux, security, penetration testing, cryptography, risk assessment",76
+Database Administrator,"sql, database tuning, backup recovery, ms server, linux, security",70
